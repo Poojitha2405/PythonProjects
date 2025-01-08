@@ -11,11 +11,9 @@ Win/Draw Detection: Automatically checks for win conditions or a draw after each
 Replay Option: Players can restart the game after completion.
 
 How to Play:
-1.Clone the repository:git clone https://github.com/poojitha2405/tic-tac-toe.git
-2.Navigate to the project directory and run the game:python tic_tac_toe.py
-3.Players take turns entering positions (1-9) to place their symbol ('X' or 'O').
-4.The game announces a winner or a draw when conditions are met.
-5.Choose to replay or exit after the game.
+1.Players take turns entering positions (1-9) to place their symbol ('X' or 'O').
+2.The game announces a winner or a draw when conditions are met.
+3.Choose to replay or exit after the game.
 
 Future Updates:
 Database Integration: Log player details, game outcomes, and moves into a database.
