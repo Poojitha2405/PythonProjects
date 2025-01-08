@@ -17,5 +17,4 @@ How to Play:
 
 Future Updates:
 Database Integration: Log player details, game outcomes, and moves into a database.
-Data Analysis: Use Python pandas to analyze player performance and game statistics.
 
